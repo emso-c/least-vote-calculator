@@ -31,5 +31,5 @@ Running the program on CMD, you can basically pass arguments to the function as 
     >> lvc 56.4 0.1 true
     Final percentage: 56.4103
     Error margin: 0.0102564
-    Votes distribution: 22/17
+    Vote distribution: 22/17
     39
